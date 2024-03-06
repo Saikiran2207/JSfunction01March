@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.image{
+    width: 48%;
+    border: solid 5px blue;
+    margin: 5px;
+    border-radius: 10px;
+}
